@@ -9,3 +9,4 @@
 /vendor/
 /database_data/
 ###< symfony/framework-bundle ###
+/docker/logs/nginx/
